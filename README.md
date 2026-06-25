@@ -1,1 +1,1 @@
-# analog-electronics-pll-system-design
+This project presents the progressive design and implementation of an analog Phase-Locked Loop (PLL) system developed through a series of laboratory exercises. Each lab session contributes a key subsystem, culminating in the construction of a fully integrated PLL circuit.
